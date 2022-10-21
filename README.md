@@ -16,28 +16,28 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 #### "Knowledge is power. Sharing knowledge is the key to unlocking that power." ― Martin Uzochukwu Ugwu
 
 ## Articles
-How to create a great data science portfolio<br>
-The data science guide<br>
-6 Data science trends<br>
-Data Science Applications<br>
-How to show your data science skills<br>
-Blueprint for building a data product business<br>
-Get ready for a successful job interview<br>
-Mapping the world's ecosystems<br>
-What a big data approach and geospatial tools reveal about human mobility<br>
-Fighting crime with data<br>
+[How to create a great data science portfolio](https://www.datacamp.com/blog/how-to-build-a-great-data-science-portfolio-with-examples)<br>
+[The data science guide](https://www.databricks.com/p/ebook/the-big-book-of-data-science-use-cases-nurture?msclkid=e9d8b6bdf76718624941d586009b2272&utm_medium=paid+search&utm_source=bing&utm_campaign=429554910&utm_adgroup=1313917868668945&utm_content=ebook&utm_offer=the-big-book-of-data-science-use-cases&utm_ad=&utm_term=data+science+information)<br>
+[6 Data science trends](https://www.snowflake.com/resource/top-6-data-science-analytics-trends-for-2022/?utm_source=bing&utm_medium=paidsearch&utm_campaign=em-gb-en-nb-datascience-phrase&utm_content=bi-rsa-evg-eb-top-6-data-science-analytics-trends-for-2022&utm_term=c-o-data%20science-p&_bt=&_bk=data%20science&_bm=p&_bn=o&_bg=1268837231587192&gclsrc=aw.ds&&gclsrc=aw.ds&&gclid=0735482b7e4614db95a52b1089ba1cc6&gclsrc=3p.ds&msclkid=0735482b7e4614db95a52b1089ba1cc6)<br>
+[Data Science Applications](https://www.codecademy.com/article/data-science-applications-article)<br>
+[How to show your data science skills](https://www.codecademy.com/article/dsf-how-to-showcase-your-data-science-skills)<br>
+[Blueprint for building a data product business](https://www.datasciencecentral.com/datastrategist-datamanagement-dataproduct-datamonetization/)<br>
+[Get ready for a successful job interview](https://webapp.yourprimer.com/v1?config=GWGUK0E1-interviewprep-careerdev&referrer=wl-gwguk)<br>
+[Mapping the world's ecosystems](https://www.esri.com/about/newsroom/blog/mapping-the-worlds-ecosystems/)<br>
+[What a big data approach and geospatial tools reveal about human mobility](https://www.esri.com/about/newsroom/blog/big-data-geospatial-tools-reveal-human-mobility/)<br>
+[Fighting crime with data](https://www.ibm.com/case-studies/police-charleroi)<br>
 
 ## Books
-Data Science (MIT Press Essential Knowledge series) by John D Kelleher<br>
-Python: 3 books in 1 -Your complete guide to python programming with python for beginners by Brady Ellison<br>
-Build a Career in Data Science by Emily Robinson<br>
-Python Data Science Handbook<br>
-The Handbook of Data Science And AI<br>
-Data Science from Scratch<br>
-The Art of Statistics: Learning from Data<br>
-Storytelling with Data: A Data Visualization Guide for Business Professionals<br>
-Big Data: A Revolution That Will Transform How We Live, Work and Think<br>
-Data Science for Dummies<br>
+[Data Science (MIT Press Essential Knowledge series) by John D Kelleher](https://www.amazon.co.uk/Data-Science-Press-Essential-Knowledge/dp/0262535432/ref=sr_1_1?adgrpid=1177577852387973&hvadid=73598819134588&hvbmt=be&hvdev=c&hvlocphy=4923&hvnetw=o&hvqmt=e&hvtargid=kwd-73598755436395%3Aloc-188&hydadcr=17584_2213359&keywords=data+science+books&qid=1662752452&sr=8-1)<br>
+[Python: 3 books in 1 -Your complete guide to python programming with python for beginners by Brady Ellison](https://www.amazon.co.uk/Python-programming-Beginners-Programming-Languages/dp/B09RLRHNGS/ref=sr_1_2_sspa?adgrpid=1177577852387973&hvadid=73598819134588&hvbmt=be&hvdev=c&hvlocphy=4923&hvnetw=o&hvqmt=e&hvtargid=kwd-73598755436395%3Aloc-188&hydadcr=17584_2213359&keywords=data+science+books&qid=1662752452&sr=8-2-spons&psc=1)<br>
+[Build a Career in Data Science by Emily Robinson](https://www.amazon.co.uk/Build-Career-Science-Jacqueline-Nolis/dp/1617296244/ref=sr_1_3_sspa?adgrpid=1177577852387973&hvadid=73598819134588&hvbmt=be&hvdev=c&hvlocphy=4923&hvnetw=o&hvqmt=e&hvtargid=kwd-73598755436395%3Aloc-188&hydadcr=17584_2213359&keywords=data+science+books&qid=1662752452&sr=8-3-spons&psc=1)<br>
+[Python Data Science Handbook](https://www.amazon.co.uk/Python-Data-Science-Handbook-Techniques/dp/1491912057/ref=sr_1_4?adgrpid=1177577852387973&hvadid=73598819134588&hvbmt=be&hvdev=c&hvlocphy=4923&hvnetw=o&hvqmt=e&hvtargid=kwd-73598755436395%3Aloc-188&hydadcr=17584_2213359&keywords=data+science+books&qid=1662752452&sr=8-4)<br>
+[The Handbook of Data Science And AI](https://www.amazon.co.uk/Python-Data-Science-Handbook-Techniques/dp/1491912057/ref=sr_1_4?adgrpid=1177577852387973&hvadid=73598819134588&hvbmt=be&hvdev=c&hvlocphy=4923&hvnetw=o&hvqmt=e&hvtargid=kwd-73598755436395%3Aloc-188&hydadcr=17584_2213359&keywords=data+science+books&qid=1662752452&sr=8-4)<br>
+[Data Science from Scratch](https://www.amazon.co.uk/Data-Science-Scratch-Joel-Grus/dp/1492041130/ref=sr_1_9?adgrpid=1177577852387973&hvadid=73598819134588&hvbmt=be&hvdev=c&hvlocphy=4923&hvnetw=o&hvqmt=e&hvtargid=kwd-73598755436395%3Aloc-188&hydadcr=17584_2213359&keywords=data+science+books&qid=1662752452&sr=8-9)<br>
+[The Art of Statistics: Learning from Data](https://www.amazon.co.uk/Learning-Data-Statistics-Pelican-Books/dp/0241258766/ref=sr_1_10?adgrpid=1177577852387973&hvadid=73598819134588&hvbmt=be&hvdev=c&hvlocphy=4923&hvnetw=o&hvqmt=e&hvtargid=kwd-73598755436395%3Aloc-188&hydadcr=17584_2213359&keywords=data+science+books&qid=1662752452&sr=8-10)<br>
+[Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.co.uk/dp/1119002257?tag=guru990c-21&geniuslink=true)<br>
+[Big Data: A Revolution That Will Transform How We Live, Work and Think](https://www.amazon.co.uk/dp/0544227751?tag=guru990c-21&geniuslink=true)<br>
+[Data Science for Dummies](https://www.amazon.co.uk/dp/1118841557?tag=guru990c-21&geniuslink=true)<br>
 
 ## Cheat sheets
 Machine learning cheat sheet<br>
