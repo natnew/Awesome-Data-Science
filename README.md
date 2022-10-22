@@ -40,62 +40,62 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 [Data Science for Dummies](https://www.amazon.co.uk/dp/1118841557?tag=guru990c-21&geniuslink=true)<br>
 
 ## Cheat sheets
-Machine learning cheat sheet<br>
-Python for data science<br>
-Data science cheat sheet for business leaders<br>
-Descriptive Statistics cheat sheet<br>
-Cheat sheet for supervised learning<br>
-Cheat sheet for unsupervised learning <br>
-Cheatography Machine learning cheat sheet<br>
-Scikit-learn algorithm cheat sheet<br>
-Keras for data science cheat sheet<br>
-Neural Networks cheat sheet<br>
-Data preparation with SQL cheat sheet<br>
-Getting started with Pandas<br>
+[Machine learning cheat sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet)<br>
+[Python for data science](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners)<br>
+[Data science cheat sheet for business leaders](https://www.datacamp.com/cheat-sheet/data-science-cheat-sheet-for-business-leaders)<br>
+[Descriptive Statistics cheat sheet](https://www.datacamp.com/cheat-sheet/descriptive-statistics-cheat-sheet)<br>
+[Cheat sheet for supervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf)<br>
+[Cheat sheet for unsupervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf)<br>
+[Cheatography Machine learning cheat sheet](https://cheatography.com/lulu-0012/cheat-sheets/test-ml/pdf/)<br>
+[Scikit-learn algorithm cheat sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/)<br>
+[Keras for data science cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)<br>
+[Neural Networks cheat sheet](https://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)<br>
+[Data preparation with SQL cheat sheet](https://www.kdnuggets.com/2021/05/data-preparation-sql-cheat-sheet.html)<br>
+[Getting started with Pandas](https://www.kdnuggets.com/2022/09/getting-started-pandas-cheatsheet.html)<br>
 
 ## Communities
-Datacamp Slack Community<br>
-Codeacademy Chapters<br>
-Microsoft Azure Database Community<br>
-Kaggle Community<br>
-DataQuest Community<br>
-StackOverflow Community<br>
-IBM Data Science Community<br>
-Reddit Data Science Community<br>
-DrivenData Community<br>
-DataScienceCentral Community<br>
-Replit Community<br>
-GitHub Community<br>
-Khan Academy Community<br>
-DataKind Community<br>
-PyData Community<br>
-Hacktoberfest <br>
-Outreachy Community<br>
-Up-For-Grabs<br>
-CodeTriage<br>
-Ovio<br>
-HuckleTree<br>
-Python<br>
-Rails Girls<br>
-Zindi<br>
+[Datacamp Slack Community](https://support.datacamp.com/hc/en-us/articles/360001915993-The-DataCamp-Slack-Community-An-Overview)<br>
+[Codeacademy Chapters](https://community.codecademy.com/)<br>
+[Microsoft Azure Database Community](https://techcommunity.microsoft.com/t5/azure-data/ct-p/AzureDatabases)<br>
+[Kaggle Community](https://www.kaggle.com/discussion)<br>
+[DataQuest Community](https://community.dataquest.io/)<br>
+[StackOverflow Community](https://stackoverflow.com/questions/tagged/data-science)<br>
+[IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)<br>
+[Reddit Data Science Community](https://www.reddit.com/r/datascience/)<br>
+[DrivenData Community](https://www.drivendata.org/)<br>
+[DataScienceCentral Community](https://www.datasciencecentral.com/)<br>
+[Replit Community](https://replit.com/site/community)<br>
+[GitHub Community](https://github.com/community)<br>
+[Khan Academy Community](https://support.khanacademy.org/hc/en-us/community/topics)<br>
+[DataKind Community](https://www.datakind.org/community-events/)<br>
+[PyData Community](https://pydata.org/about/)<br>
+[Hacktoberfest](https://hacktoberfest.com/)<br>
+[Outreachy Community](https://www.outreachy.org/docs/community/)<br>
+[Up-For-Grabs](https://up-for-grabs.net/#/)<br>
+[CodeTriage](https://www.codetriage.com/?language=C)<br>
+[Ovio](https://ovio.org/about)<br>
+[HuckleTree](https://www.huckletree.com/memberships)<br>
+[Python](https://www.python.org/psf/get-involved/)<br>
+[Rails Girls](https://railsgirlssummerofcode.org/)<br>
+[Zindi](https://app.grammarly.com/ddocs/1761641203)<br>
 
 ## Datasets
-Seaborn data<br>
-Plotly data<br>
-Matplotlib data<br>
-Free public data sets for analysis<br>
-Open Datasets<br>
-Natural Language Toolkit Data<br>
-FiveThirtyEight Data<br>
-BuzzFeed Data<br>
-Nasa Earth Data<br>
-Nasa Space Data<br>
-Our World in Data<br>
-Bokeh Sample Data<br>
-TensorFlow Data<br>
-PyDataset Data<br>
-Scikit-learn Data<br>
-Stratsmodel Data<br>
+[Seaborn data](https://github.com/seaborn/seaborn-data)<br>
+[Plotly data](https://github.com/plotly/datasets)<br>
+[Matplotlib data](https://github.com/matplotlib/sample_data)<br>
+[Free public data sets for analysis](https://www.tableau.com/learn/articles/free-public-data-sets)<br>
+[Open Datasets](https://www.kaggle.com/datasets)<br>
+[Natural Language Toolkit Data](http://www.nltk.org/nltk_data/)<br>
+[FiveThirtyEight Data](https://fivethirtyeight.com/)<br>
+[BuzzFeed Data](https://www.buzzfeed.com/uk)<br>
+[Nasa Earth Data](https://www.earthdata.nasa.gov/)<br>
+[Nasa Space Data](https://pds.nasa.gov/datasearch/data-search/)<br>
+[Our World in Data](https://ourworldindata.org/)<br>
+[Bokeh Sample Data](https://docs.bokeh.org/en/latest/docs/reference/sampledata.html#bokeh-sampledata)<br>
+[TensorFlow Data](https://www.tensorflow.org/api_docs/python/tf/data/Dataset)<br>
+[PyDataset Data](https://libraries.io/pypi/pydataset)<br>
+[Scikit-learn Data](https://scikit-learn.org/stable/datasets.html)<br>
+[Stratsmodel Data](https://www.statsmodels.org/devel/datasets/index.html)<br>
 
 ## Development Environments/Tools
 Visual Studio Code<br>
