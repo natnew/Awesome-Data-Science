@@ -98,102 +98,102 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 [Stratsmodel Data](https://www.statsmodels.org/devel/datasets/index.html)<br>
 
 ## Development Environments/Tools
-Visual Studio Code<br>
-IntelliJ<br>
-PyCharm<br>
-RStudio<br>
-RubyMine<br>
-Jupyter<br>
-NetBeans<br>
-Replit<br>
+[Visual Studio Code](https://visualstudio.microsoft.com/)br>
+[IntelliJ](https://www.jetbrains.com/idea/)<br>
+[PyCharm](https://www.jetbrains.com/pycharm/)<br>
+[RStudio](https://www.rstudio.com/products/rstudio/download/)<br>
+[RubyMine](https://www.jetbrains.com/ruby/)<br>
+[Jupyter](https://jupyter.org/)<br>
+[NetBeans](https://netbeans.apache.org/)<br>
+[Replit](https://replit.com/)<br>
 
 ## Games
-CodinGame<br>
-CSS Diner<br>
-FlexBox Groggy<br>
-FlexBox Defense<br>
-Grid Garden<br>
-Code Combat<br>
-Scratch<br>
-Tynker<br>
-SQL Murder Mystery<br>
-Untrusted<br>
+[CodinGame](https://www.codingame.com/start)<br>
+[CSS Diner](https://flukeout.github.io/)<br>
+[FlexBox Groggy](https://flexboxfroggy.com/)<br>
+[FlexBox Defense](http://www.flexboxdefense.com/)<br>
+[Grid Garden](https://cssgridgarden.com/)<br>
+[Code Combat](https://codecombat.com/)<br>
+[Scratch](https://scratch.mit.edu/)<br>
+[Tynker](https://www.tynker.com/)<br>
+[SQL Murder Mystery](https://mystery.knightlab.com/)<br>
+[Untrusted](https://alexnisnevich.github.io/untrusted/)<br>
 
 ## Local Newspaper Archives
-Data Visualisation: How America moves its homeless<br>
-Here's when we expect Omicron to peak<br>
-Four ways to slice Obama's 2013 budget proposal<br>
-Presidential election 2022: the dashboard of polls, speaking time and sponsorhips<br>
-Migration waves<br>
-Russia, Gas, and the Ukraine conflict<br>
-End of the Covid-19 pandemic<br>
-Infections caught in laboratories are surprisingly common <br>
-Individual carbon footprint<br>
-Child labour<br>
+[Data Visualisation: How America moves its homeless](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)<br>
+[Here's when we expect Omicron to peak](https://www.dataviz-inspiration.com/)<br>
+[Four ways to slice Obama's 2013 budget proposal](https://archive.nytimes.com/www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html?)<br>
+[Presidential election 2022: the dashboard of polls, speaking time and sponsorhips](https://archive.nytimes.com/www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html?)<br>
+[Migration waves](https://www.nationalgeographic.com/magazine/graphics/graphic-shows-past-50-years-of-global-human-migration)<br>
+[Russia, Gas, and the Ukraine conflict](https://www.nytimes.com/interactive/2022/02/15/business/energy-environment/russia-gas-europe-ukraine.html)<br>
+[End of the Covid-19 pandemic](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/when-will-the-covid-19-pandemic-end)<br>
+[Infections caught in laboratories are surprisingly common](https://www.economist.com/graphic-detail/2021/08/24/infections-caught-in-laboratories-are-surprisingly-common)<br>
+[Individual carbon footprint](https://www.economist.com/graphic-detail/2021/08/24/infections-caught-in-laboratories-are-surprisingly-common)<br>
+[Child labour](https://www.dataviz-inspiration.com/)<br>
 
 ## Mentoring
-STEMetters<br>
-Robogals<br>
-Khan Academy<br>
-She Codes<br>
-Girls who code<br>
-CBF<br>
-PyData<br>
-DataKind<br>
-ColorInTech<br>
-Black Valley<br>
+[STEMetters](https://stemettes.org/volunteer/)<br>
+[Robogals](https://robogals.org/get-involved/university-students/)<br>
+[Khan Academy](https://www.khanacademy.org/stories)<br>
+[She Codes](https://shecodes.com.au/mentor/)<br>
+[Girls who code](https://girlswhocode.com/get-involved)<br>
+[CBF](https://codingblackfemales.com/)<br>
+[PyData](https://pydata.org/volunteer/)<br>
+[DataKind](https://www.datakind.org/volunteer-with-us)<br>
+[ColorInTech](https://www.colorintech.org/about)<br>
+[Black Valley](https://www.blackvalley.co.uk/get-involved/become-a-mentor)<br>
 
 ## Online Courses
-IBM Data Science professional Certificate<br>
-Harvard University Data Science Courses<br>
-Datacamp: Understanding data science<br>
-Code Academy Data Science courses <br>
-JetBrains programming courses<br>
-Introduction to computational thinking and data science <br>
-SQL for data science with R<br>
-Statistical thinking for data science and analytics<br>
-Introduction to natural language processing <br>
-Hands-on data science: build real world projects<br>
+[IBM Data Science professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)<br>
+[Harvard University Data Science Courses](https://pll.harvard.edu/subject/data-science)<br>
+[Datacamp: Understanding data science](https://app.datacamp.com/learn/courses/understanding-data-science)<br>
+[Code Academy Data Science courses](https://www.codecademy.com/catalog/subject/data-science)<br>
+[JetBrains programming courses](https://www.jetbrains.com/academy/)<br>
+[Introduction to computational thinking and data science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4?index=product_value_experiment_a&queryID=894a0e4c4734ce11cd77787e81acda38&position=21)<br>
+[SQL for data science with R](https://www.edx.org/course/sql-for-data-science-with-r?index=product_value_experiment_a&queryID=894a0e4c4734ce11cd77787e81acda38&position=11)<br>
+[Statistical thinking for data science and analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic?index=product_value_experiment_a&queryID=ca783d41dba2aee0a8fa7b3491c82023&position=10)<br>
+[Introduction to natural language processing](about:blank)<br>
+[Hands-on data science: build real world projects](https://www.udemy.com/course/hands-on-data-science-build-real-world-projects/)<br>
 
 ## Open-Source Project Contribution
-Hacktoberfest<br>
-GitHub<br>
-First Timers Only<br>
-First Contributions<br>
-Up-For-Grabs<br>
-Good First Issues<br>
-CodeTriage<br>
-Outreachy<br>
-Python<br>
-Scala<br>
-Season of Docs<br>
-Google summer of code<br>
-Forem<br>
-Open-source programs and competitions<br>
+[Hacktoberfest](https://hacktoberfest.com/about/)<br>
+[GitHub](https://github.com/)<br>
+[First Timers Only](https://www.firsttimersonly.com/)<br>
+[First Contributions](https://github.com/firstcontributions/first-contributions)<br>
+[Up-For-Grabs](https://up-for-grabs.net/#/)<br>
+[Good First Issues](https://goodfirstissues.com/index.html)<br>
+[CodeTriage](https://www.codetriage.com/)<br>
+[Outreachy](https://www.outreachy.org/apply/)<br>
+[Python](https://www.python.org/psf/get-involved/)<br>
+[Scala](https://www.scala-exercises.org/)<br>
+[Season of Docs](https://developers.google.com/season-of-docs/)<br>
+[Google summer of code](https://app.grammarly.com/ddocs/1761641203)<br>
+[Forem](https://www.forem.com/)<br>
+[Open-source programs and competitions](https://github.com/tapaswenipathak/Open-Source-Programs)<br>
 
 ## Podcasts
-The rise of spatial data science<br>
-Data science and the rise of geospatial thinking<br>
-Data and location: from insights to action<br>
-Weaving the geospatial fabric of the world with authoritative data<br>
-How data literacy skills help you succeed<br>
-Creating a database for AI<br>
-The future of unstructured data <br>
-Data governance for data science<br>
-Feature platforms for data-centric AI<br>
-The state of artificial intelligence 2022<br>
+[The rise of spatial data science](https://www.esri.com/about/newsroom/podcast/the-rise-of-spatial-data-science/)<br>
+[Data science and the rise of geospatial thinking](https://www.esri.com/about/newsroom/podcast/data-science-and-the-rise-of-geospatial-thinking/#:~:text=Data%20Science%20and%20the%20Rise%20of%20Geospatial%20Thinking,solutions%20to%20complex%20challenges%20in%20business%20and%20society.)<br>
+[Data and location: from insights to action](https://www.esri.com/about/newsroom/podcast/data-and-location-from-insights-to-action/)<br>
+[Weaving the geospatial fabric of the world with authoritative data](https://www.esri.com/about/newsroom/arcnews/weaving-the-geospatial-fabric-of-the-world-with-authoritative-data/)<br>
+[How data literacy skills help you succeed](literacy)<br>
+[Creating a database for AI](https://datacrunchcorp.com/creating-a-database-for-ai-with-activeloop/)<br>
+[The future of unstructured data](https://datacrunchcorp.com/the-future-of-unstructured-data-with-graviti/)<br>
+[Data governance for data science](https://twimlai.com/podcast/twimlai/data-governance-for-data-science-with-adam-wood/)<br>
+[Feature platforms for data-centric AI](https://twimlai.com/podcast/twimlai/feature-platforms-for-data-centric-ai-mike-del-balso/)<br>
+[The state of artificial intelligence 2022](https://datascienceathome.com/state-of-artificial-intelligence-2022-ep-196/)<br>
 
 ## Projects
-Analyze your personal Netflix data<br>
-Data science projects<br>
-Top 10 data science projects in 2022<br>
-14 data science projects from beginner to advanced level<br>
-Language translator using Google API in Python<br>
-100 python projects for beginners<br>
-200 python projects for beginners<br>
-Dataquest: Exploring hacker news posts<br>
-Tableau Community Projects<br>
-55 Fun python project ideas<br>
+[Analyze your personal Netflix data](https://www.dataquest.io/blog/python-tutorial-analyze-personal-netflix-data/)<br>
+[Data science project]s(https://github.com/topics/data-science-projects)<br>
+[Top 10 data science projects in 2022](https://hackr.io/blog/data-science-projects#:~:text=Top%20Data%20Science%20Projects%201%201.%20Sentiment%20Analysis,...%208%208.%20Recommended%20Movie%20...%20More%20items)<br>
+[14 data science projects from beginner to advanced level](https://blog.udemy.com/data-science-projects/)<br>
+[Language translator using Google API in Python](https://www.geeksforgeeks.org/language-translator-using-google-api-in-python/)<br>
+[100 python projects for beginners](https://medium.com/@natashanewbold/100-projects-for-beginners-using-python-8b7f55bbd1ad)<br>
+[200 python projects for beginners](https://github.com/natnew/200-Projects-For-Beginners-Using-Python-Series)<br>
+[Dataquest: Exploring hacker news posts](https://app.dataquest.io/m/356/guided-project%3A-exploring-hacker-news-posts/1/introduction)<br>
+[Tableau Community Projects](https://www.tableau.com/community/community-projects)<br>
+[55 Fun python project ideas](https://www.dataquest.io/blog/python-projects-for-beginners/)<br>
 
 ## Reports
 State of Date Science 2022: paving the way for innovation<br>
