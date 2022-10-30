@@ -152,7 +152,7 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 [Introduction to computational thinking and data science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4?index=product_value_experiment_a&queryID=894a0e4c4734ce11cd77787e81acda38&position=21)<br>
 [SQL for data science with R](https://www.edx.org/course/sql-for-data-science-with-r?index=product_value_experiment_a&queryID=894a0e4c4734ce11cd77787e81acda38&position=11)<br>
 [Statistical thinking for data science and analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic?index=product_value_experiment_a&queryID=ca783d41dba2aee0a8fa7b3491c82023&position=10)<br>
-[Introduction to natural language processing](about:blank)<br>
+[Introduction to natural language processing]([about:blank](https://www.udemy.com/course/natural-language-processing/)<br>
 [Hands-on data science: build real world projects](https://www.udemy.com/course/hands-on-data-science-build-real-world-projects/)<br>
 
 ## Open-Source Project Contribution
@@ -185,7 +185,7 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 
 ## Projects
 [Analyze your personal Netflix data](https://www.dataquest.io/blog/python-tutorial-analyze-personal-netflix-data/)<br>
-[Data science project]s(https://github.com/topics/data-science-projects)<br>
+[Data science projects](https://github.com/topics/data-science-projects)<br>
 [Top 10 data science projects in 2022](https://hackr.io/blog/data-science-projects#:~:text=Top%20Data%20Science%20Projects%201%201.%20Sentiment%20Analysis,...%208%208.%20Recommended%20Movie%20...%20More%20items)<br>
 [14 data science projects from beginner to advanced level](https://blog.udemy.com/data-science-projects/)<br>
 [Language translator using Google API in Python](https://www.geeksforgeeks.org/language-translator-using-google-api-in-python/)<br>
@@ -196,71 +196,71 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 [55 Fun python project ideas](https://www.dataquest.io/blog/python-projects-for-beginners/)<br>
 
 ## Reports
-State of Date Science 2022: paving the way for innovation<br>
-Scaling AI/ML Initiatives: The critical role of data<br>
-The opportunity of biomedical data science<br>
+[State of Date Science 2022: paving the way for innovation](https://www.anaconda.com/state-of-data-science-report-2022)<br>
+[Scaling AI/ML Initiatives: The critical role of data](https://www.snowflake.com/resource/scaling-ai-ml-initiatives-the-critical-role-of-data/)<br>
+[The opportunity of biomedical data science](https://app.grammarly.com/ddocs/1761641203)<br>
 
 ## Talks
-Grit: The power of passion and perseverance<br>
-The best stats you've ever seen<br>
-The beauty of data visualization <br>
-Beyond the numbers: A data analyst journey<br>
-The human insights missing from big data<br>
-Make data more human<br>
-Big data is better data<br>
-Own your body's data <br>
-The power of believing that you can improve <br>
-The world needs all kinds of minds<br>
+[Grit: The power of passion and perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)<br>
+[The best stats you've ever seen](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)<br>
+[The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)<br>
+[Beyond the numbers: A data analyst journey](https://www.youtube.com/watch?v=t2oOFs4WgI0)<br>
+[The human insights missing from big data](https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data)<br>
+[Make data more human](https://www.ted.com/talks/jer_thorp_make_data_more_human)<br>
+[Big data is better data](https://www.ted.com/talks/kenneth_cukier_big_data_is_better_data)<br>
+[Own your body's data](https://www.ted.com/talks/talithia_williams_own_your_body_s_data)<br>
+[The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)<br>
+[The world needs all kinds of minds](https://www.ted.com/talks/temple_grandin_the_world_needs_all_kinds_of_minds)<br>
 
 ## Tutorials
-Learn just enough JavaScript<br>
-Data science tutorial with W3Schools<br>
-Plotly open-source graphing library tutorials<br>
-Building and deploying machine learning pipelines<br>
-Getting started with TabPy<br>
-Databricks data science and engineering <br>
-Decision tree introduction with examples<br>
-Build a recurrent neural network using Pytorch<br>
-Download datasets from the Red Hat Marketplace<br>
-Building models using Jupyter notebooks in IBM Watson Studio<br>
+[Learn just enough JavaScript](https://observablehq.com/@observablehq/learn-javascript-introduction?collection=@observablehq/tutorial)<br>
+[Data science tutorial with W3Schools](https://www.w3schools.com/datascience/default.asp)<br>
+[Plotly open-source graphing library tutorials](https://plotly.com/python/)<br>
+[Building and deploying machine learning pipelines](https://www.datacamp.com/tutorial/kubeflow-tutorial-building-and-deploying-machine-learning-pipelines)<br>
+[Getting started with TabPy](https://www.datacamp.com/tutorial/getting-started-with-tabpy)<br>
+[Databricks data science and engineering](https://www.databricks.com/learn)<br>
+[Decision tree introduction with examples](https://www.geeksforgeeks.org/decision-tree-introduction-example/?ref=lbp)<br>
+[Build a recurrent neural network using Pytorch](https://developer.ibm.com/tutorials/build-a-recurrent-neural-network-pytorch/)<br>
+[Download datasets from the Red Hat Marketplace](https://developer.ibm.com/tutorials/get-data-set-from-rhm-and-mount-on-openshift/)<br>
+[Building models using Jupyter notebooks in IBM Watson Studio](https://developer.ibm.com/tutorials/watson-studio-using-jupyter-notebook/)<br>
 
 ## Videos
-What is data science?<br>
-Learn data science tutorial<br>
-Python for data science<br>
-Machine learning for data science<br>
-Data structure easy to advance<br>
-Learn data science tutorial<br>
-12 data science apps using python<br>
-Statistics - Data science basics<br>
-Programming R tutorial <br>
-How data and culture unlock digital transformation<br>
+[What is data science?](https://www.youtube.com/watch?v=RBSUwFGa6Fk)<br>
+[Learn data science tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30)<br>
+[Python for data science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)<br>
+[Machine learning for data science](https://www.youtube.com/watch?v=i_LwzRVP7bg)<br>
+[Data structure easy to advance](https://www.youtube.com/watch?v=RBSGKlAvoiM)<br>
+[Learn data science tutorial](https://www.youtube.com/watch?v=ua-CiDNNj30)<br>
+[12 data science apps using python](https://www.youtube.com/watch?v=JwSS70SZdyM)<br>
+[Statistics - Data science basics](https://www.youtube.com/watch?v=xxpc-HPKN28)<br>
+[Programming R tutorial ](https://www.youtube.com/watch?v=_V8eKsto3Ug)<br>
+[How data and culture unlock digital transformation](https://www.youtube.com/watch?v=Weq9kwgIVSM)<br>
 
 ## Volunteering
-STEMetters<br>
-Robogals<br>
-Khan Academy <br>
-She Codes<br>
-Girls who code<br>
-CBF<br>
-PyData<br>
-DataKind<br>
-ColorInTech<br>
+[STEMetters](https://stemettes.org/volunteer/)<br>
+[Robogals](https://robogals.org/get-involved/university-students/)<br>
+[Khan Academy](https://www.khanacademy.org/stories)<br>
+[She Codes](https://shecodes.com.au/mentor/)<br>
+[Girls who code](https://girlswhocode.com/get-involved)<br>
+[CBF](https://codingblackfemales.com/)<br>
+[PyData](https://pydata.org/volunteer/)<br>
+[DataKind](https://www.datakind.org/volunteer-with-us)<br>
+[ColorInTech](https://www.colorintech.org/about)<br>
 
 ## Webinars
-Sentiment Analysis and prediction in Python<br>
-Implementing deep learning models in streaming analytics projects <br>
-K Means algorithm explained in 60 minutes<br>
-Demystifying the cloud journey<br>
-The data science learning journey: How ModelOps fits into the big picture<br>
-The model data team as a team sport<br>
-Building a personal brand in data<br>
-Dzone data pipeline trends: simplify data architectures with an open lake house<br>
-How to create a data mesh that is right for you<br>
-How industry cross-collaboration can generate new revenue for Telcos<br>
-Natural Language Processing: Trends, Challenges and Opportunities<br>
-How To Ensure Responsible Use Of AI With A Real-World Example<br>
-Working with Data in a Connected World<br>
+[Sentiment Analysis and prediction in Python](https://www.datacamp.com/resources/webinars/live-training-sentiment-analysis-and-prediction-in-python)<br>
+[Implementing deep learning models in streaming analytics projects ](https://www.datasciencecentral.com/dsc-webinar-series-implementing-deep-learning-models-in-streaming-analytics-projects/)<br>
+[K Means algorithm explained in 60 minutes](https://www.datasciencecentral.com/dsc-webinar-series-implementing-deep-learning-models-in-streaming-analytics-projects/)<br>
+[Demystifying the cloud journey](https://www.bloomberg.com/professional/blog/webinar/demystifying-the-cloud-data-journey/)<br>
+[The data science learning journey: How ModelOps fits into the big picture](https://www.sas.com/en_us/webinars/modelops.html)<br>
+[The model data team as a team sport](https://www.cognilytica.com/session/the-modern-data-team-as-a-team-sport/)<br>
+[Building a personal brand in data](https://www.datacamp.com/resources/webinars/data-literacy-month-building-a-personal-brand-in-data)<br>
+[Dzone data pipeline trends: simplify data architectures with an open lake house](https://hello.dremio.com/webinar-dzone-data-architectures-with-an-open-lakehouse-reg.html?utm_medium=paid-media&utm_source=kd-nuggets&utm_term=na&utm_content=DZone_Simplify_Data&utm_campaign=webinar-dzone-data-pipelines-trend-study)<br>
+[How to create a data mesh that is right for you](https://www.snowflake.com/webinar/thought-leadership/how-to-create-a-data-mesh-thats-right-for-you/)<br>
+[How industry cross-collaboration can generate new revenue for Telcos](https://www.snowflake.com/webinar/thought-leadership/how-industry-cross-collaboration-can-generate-new-revenue-for-telcos/)<br>
+[Natural Language Processing: Trends, Challenges and Opportunities](https://www.youtube.com/watch?v=Y2WZEV-Ds-o&list=PLGVZCDnMOq0rHb3JXG6puQnUAclFFZMlh&index=4)<br>
+[How To Ensure Responsible Use Of AI With A Real-World Example](https://www.youtube.com/watch?v=NVwpTmTKK8o&list=PLGVZCDnMOq0rHb3JXG6puQnUAclFFZMlh&index=10)<br>
+[Working with Data in a Connected World](https://www.youtube.com/watch?v=BiFKNAs4UQs&list=PLGVZCDnMOq0rHb3JXG6puQnUAclFFZMlh&index=20)<br>
 
 ## Thank you for reading! 🤗
 I really appreciate it! If you liked my post and would like to see more, consider following me. I post twice a week on topics related to python programming, data science and data analysis. I appreciate comments and suggestions on new topics!
