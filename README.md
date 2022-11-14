@@ -27,7 +27,7 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 - [Games](#Games)
 - [Local Newspaper Archives](#LocalNewspaperArchives)
 - [Mentoring](#Mentoring)
-- [Online Courses](#Online Courses)
+- [Online Courses](#OnlineCourses)
 - [Open-Source Project Contribution](#Open-SourceProjectContribution)
 - [Podcasts](#Podcasts)
 - [Projects](#Projects)
