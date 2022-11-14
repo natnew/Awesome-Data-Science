@@ -18,7 +18,24 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 #### "Knowledge is power. Sharing knowledge is the key to unlocking that power." ― Martin Uzochukwu Ugwu
 
 ## Contents
-- [Articles](#articles)
+- [Articles](#Articles)
+- [Books](#Books)
+- [Cheat Sheets](#Cheat Sheets)
+- [Communities](#Communities)
+- [Datasets](#Datasets)
+- [Development Environments/Tools](#Development Environments/Tools)
+- [Games](#Games)
+- [Local Newspaper Archives](#Local Newspaper Archives)
+- [Mentoring](#Mentoring)
+- [Online Courses](#Online Courses)
+- [Open-Source Project Contribution](#Open-Source Project Contribution)
+- [Podcasts](#Podcasts)
+- [Projects](#Projects)
+- [Reports](#Reports)
+- [Talks](#Talks)
+- [Tutorials](#Tutorials)
+- [Videos](#Videos)
+- [Volunteering](#Volunteering)
 - [Webinars](#webinars)
 
 ## Articles
