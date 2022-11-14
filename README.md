@@ -17,6 +17,10 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 
 #### "Knowledge is power. Sharing knowledge is the key to unlocking that power." ― Martin Uzochukwu Ugwu
 
+## Contents
+- [Articles](#articles)
+- [Webinars](#webinars)
+
 ## Articles
 [How to create a great data science portfolio](https://www.datacamp.com/blog/how-to-build-a-great-data-science-portfolio-with-examples)<br>
 [The data science guide](https://www.databricks.com/p/ebook/the-big-book-of-data-science-use-cases-nurture?msclkid=e9d8b6bdf76718624941d586009b2272&utm_medium=paid+search&utm_source=bing&utm_campaign=429554910&utm_adgroup=1313917868668945&utm_content=ebook&utm_offer=the-big-book-of-data-science-use-cases&utm_ad=&utm_term=data+science+information)<br>
