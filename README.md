@@ -20,7 +20,7 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 ## Contents
 - [Articles](#Articles)
 - [Books](#Books)
-- [Cheat Sheets](#Cheat Sheets)
+- [Cheat Sheets](#CheatSheets)
 - [Communities](#Communities)
 - [Datasets](#Datasets)
 - [Development Environments/Tools](#Development Environments/Tools)
