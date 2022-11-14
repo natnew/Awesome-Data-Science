@@ -1,6 +1,8 @@
 # Awesome Data Science: List of Resources for Data Scientists
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ### A collection of Data Science Resources for Beginners to Pros
 #### "If you think education is expensive, try ignorance" - Jeff Rich
+
 
 Currently 200+ Resources added. (Updated October 2022)
 ## Introduction
