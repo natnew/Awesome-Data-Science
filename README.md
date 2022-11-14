@@ -151,7 +151,7 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 [JetBrains programming courses](https://www.jetbrains.com/academy/)<br>
 [Introduction to computational thinking and data science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4?index=product_value_experiment_a&queryID=894a0e4c4734ce11cd77787e81acda38&position=21)<br>
 [SQL for data science with R](https://www.edx.org/course/sql-for-data-science-with-r?index=product_value_experiment_a&queryID=894a0e4c4734ce11cd77787e81acda38&position=11)<br>
-[Statistical thinking for data science and analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic?index=product_value_experiment_a&queryID=ca783d41dba2aee0a8fa7b3491c82023&position=10)<br>
+[Statistical thinking for data science and analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic?[index=product_value_experiment_a&queryID=ca783d41dba2aee0a8fa7b3491c82023&position=10<br>
 [Introduction to natural language processing]([about:blank](https://www.udemy.com/course/natural-language-processing/)<br>
 [Hands-on data science: build real world projects](https://www.udemy.com/course/hands-on-data-science-build-real-world-projects/)<br>
 
