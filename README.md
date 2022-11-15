@@ -1,5 +1,5 @@
-# Awesome Data Science: List of Resources for Data Scientists
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Data Science: List of Resources for Data Scientists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ### A collection of Data Science Resources for Beginners to Pros
 #### "If you think education is expensive, try ignorance" - Jeff Rich
 
@@ -284,6 +284,12 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 [Natural Language Processing: Trends, Challenges and Opportunities](https://www.youtube.com/watch?v=Y2WZEV-Ds-o&list=PLGVZCDnMOq0rHb3JXG6puQnUAclFFZMlh&index=4)<br>
 [How To Ensure Responsible Use Of AI With A Real-World Example](https://www.youtube.com/watch?v=NVwpTmTKK8o&list=PLGVZCDnMOq0rHb3JXG6puQnUAclFFZMlh&index=10)<br>
 [Working with Data in a Connected World](https://www.youtube.com/watch?v=BiFKNAs4UQs&list=PLGVZCDnMOq0rHb3JXG6puQnUAclFFZMlh&index=20)<br>
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Natasha](https://github.com/natnew) has waived all copyright and related or neighboring rights to this work.
 
 ## Thank you for reading! 🤗
 I really appreciate it! If you liked my post and would like to see more, consider following me. I post twice a week on topics related to python programming, data science and data analysis. I appreciate comments and suggestions on new topics!
