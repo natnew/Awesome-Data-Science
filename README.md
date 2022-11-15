@@ -291,5 +291,4 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 
 To the extent possible under law, [Natasha](https://github.com/natnew) has waived all copyright and related or neighboring rights to this work.
 
-## Thank you for reading! 🤗
-I really appreciate it! If you liked my post and would like to see more, consider following me. I post twice a week on topics related to python programming, data science and data analysis. I appreciate comments and suggestions on new topics!
+
