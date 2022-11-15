@@ -1,5 +1,5 @@
 # Awesome Data Science: List of Resources for Data Scientists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+# [<img src="https://github.com/natnew/Awesome-Data-Science/blob/main/media/AWESOME%20DATA%20SCIENCE%20Github%20logo.jpg">](https://github.com/natnew/Awesome-Data-Science)
 ### A collection of Data Science Resources for Beginners to Pros
 #### "If you think education is expensive, try ignorance" - Jeff Rich
 
