@@ -4,7 +4,6 @@
 > Carefully curated list of awesome Data Science resources.
 
 ### A collection of Data Science Resources for Beginners to Pros
-#### "If you think education is expensive, try ignorance" - Jeff Rich
 
 
 Currently 200+ Resources added. (Updated October 2022)
