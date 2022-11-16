@@ -2,7 +2,8 @@
 # [<img src="https://github.com/natnew/Awesome-Data-Science/blob/main/media/AWESOME%20DATA%20SCIENCE%20Github%20logo.jpg">](https://github.com/natnew/Awesome-Data-Science)
 ### A Collection of Data Science Resources for Beginners to Pros
 > Carefully curated list of awesome Data Science resources.<br>
-Contributions Welcome! Add links through pull requests or create an issue to start a discussion.
+Contributions Welcome! Add links through pull requests or create an issue to start a discussion.<br>
+Would you like to see the resources in this repo in your native language? You can help us with translating them on [this dedicated repo!](https://github.com/natnew/Resources-Translation/blob/main/README.md)<br>
 
 
 
@@ -66,18 +67,18 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 - [Data Science for Dummies](https://www.amazon.co.uk/dp/1118841557?tag=guru990c-21&geniuslink=true) - By Lillian Pierson (2015)<br>
 
 ## Cheat sheets
-[Machine learning cheat sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet)<br>
-[Python for data science](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners)<br>
-[Data science cheat sheet for business leaders](https://www.datacamp.com/cheat-sheet/data-science-cheat-sheet-for-business-leaders)<br>
-[Descriptive Statistics cheat sheet](https://www.datacamp.com/cheat-sheet/descriptive-statistics-cheat-sheet)<br>
-[Cheat sheet for supervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf)<br>
-[Cheat sheet for unsupervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf)<br>
-[Cheatography Machine learning cheat sheet](https://cheatography.com/lulu-0012/cheat-sheets/test-ml/pdf/)<br>
-[Scikit-learn algorithm cheat sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/)<br>
-[Keras for data science cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)<br>
-[Neural Networks cheat sheet](https://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png)<br>
-[Data preparation with SQL cheat sheet](https://www.kdnuggets.com/2021/05/data-preparation-sql-cheat-sheet.html)<br>
-[Getting started with Pandas](https://www.kdnuggets.com/2022/09/getting-started-pandas-cheatsheet.html)<br>
+- [Machine learning cheat sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - Datacamp guides you around the top machine learning algorithms and use-cases.<br>
+- [Python for data science](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners) - Datacamp presents the Python basics.<br>
+- [Data science cheat sheet for business leaders](https://www.datacamp.com/cheat-sheet/data-science-cheat-sheet-for-business-leaders) - Datcamp guides you through how data science can help your business.<br>
+- [Descriptive Statistics cheat sheet](https://www.datacamp.com/cheat-sheet/descriptive-statistics-cheat-sheet) - Datacamp presents the most common statistical techniques for descriptive analytics.<br>
+- [Cheat sheet for supervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf) - Afshine Amidi presents a supervised learning guide. <br>
+- [Cheat sheet for unsupervised learning](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf) - Afshine Amidi presents an unsupervised learning guide. <br>
+- [Cheatography Machine learning cheat sheet](https://cheatography.com/lulu-0012/cheat-sheets/test-ml/pdf/) - Cheatography presents a cheat sheet on Machine learning.<br>
+- [Scikit-learn algorithm cheat sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/) - The official Scikit Learn cheat sheet. <br>
+- [Keras for data science cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf) - An Amazonaws Keras cheat sheet.<br>
+- [Neural Networks cheat sheet](https://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png) - An Asimovinstitute Neural Networks cheat sheet. <br>
+- [Data preparation with SQL cheat sheet](https://www.kdnuggets.com/2021/05/data-preparation-sql-cheat-sheet.html)  - The official KDNuggets SQL cheat sheet. <br>
+- [Getting started with Pandas](https://www.kdnuggets.com/2022/09/getting-started-pandas-cheatsheet.html) - The official KDNuggets Pandas cheat sheet. <br>
 
 ## Communities
 [Datacamp Slack Community](https://support.datacamp.com/hc/en-us/articles/360001915993-The-DataCamp-Slack-Community-An-Overview)<br>
@@ -124,7 +125,7 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 [Stratsmodel Data](https://www.statsmodels.org/devel/datasets/index.html)<br>
 
 ## Development Environments/Tools
-[Visual Studio Code](https://visualstudio.microsoft.com/)br>
+[Visual Studio Code](https://visualstudio.microsoft.com/)<br>
 [IntelliJ](https://www.jetbrains.com/idea/)<br>
 [PyCharm](https://www.jetbrains.com/pycharm/)<br>
 [RStudio](https://www.rstudio.com/products/rstudio/download/)<br>
