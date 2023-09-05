@@ -1,4 +1,9 @@
-# Awesome Data Science: List of Resources for Data Scientists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Data Science: List of Resources for Data Scientists 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Static Badge](https://img.shields.io/badge/Maintained%20-%20Yes%20-%20lightgreen) ![Static Badge](https://img.shields.io/badge/Release%20-%20PROD%20-%20lightblue) ![Static Badge](https://img.shields.io/badge/License%20-%20MIT%20-%20orange) ![Static Badge](https://img.shields.io/badge/Language%20-%20MULTI%20-%20grey)
+
+
+
+
 # [<img src="https://github.com/natnew/Awesome-Data-Science/blob/main/media/AWESOME%20DATA%20SCIENCE%20Github%20logo.jpg">](https://github.com/natnew/Awesome-Data-Science)
 ### A Collection of Data Science Resources for Beginners to Pros
 > Carefully curated list of awesome Data Science resources.<br>
@@ -8,39 +13,63 @@ Would you like to see the resources in this repo in your native language? You ca
 
 
 
-Currently 200+ Resources added. (Updated October 2022)
+Currently 200+ Resources added. (Updated September 2023)
 ## Introduction
-Want to know what the most common tools for data science are? <br>
-Want to know what a data scientist does?<br>
-Ever wondered if you can teach yourself to be a data scientist?<br>
-Want to know how to launch a data science career?<br>
-Need help practicing for data science interviews?<br>
-Are you looking for a data science mentor?<br>
+Welcome to Awesome Data Science! This repository is a curated collection of valuable resources, tools, and tutorials for anyone passionate about the exciting field of data science. Whether you're an aspiring data scientist or an experienced practitioner, you'll find a wealth of information here to enhance your knowledge and skills. Explore various topics, including machine learning, data visualization, and statistical analysis. Discover new insights and stay up-to-date with the latest trends in this ever-evolving discipline. Dive in and elevate your data science journey with the resources we've gathered for you!
+
+✔️ Want to know what the most common tools for data science are? <br>
+✔️ Want to know what a data scientist does?<br>
+✔️ Ever wondered if you can teach yourself to be a data scientist?<br>
+✔️ Want to know how to launch a data science career?<br>
+✔️ Need help practicing for data science interviews?<br>
+✔️ Are you looking for a data science mentor?<br>
 
 The collection below is part of the Awesome Data Science GitHub Repo that contains data science resources for the beginner and pro.<br>
 
 #### "Knowledge is power. Sharing knowledge is the key to unlocking that power." ― Martin Uzochukwu Ugwu
 
+## Essential Startpoints
+|    |    |   |
+| :-----:| :------------:| :----:|
+|   [📰 Articles](#articles)  |  [ 📑Cheat Sheets](#cheat-sheets)  |  [🧑‍🤝‍🧑 Communities](#communities)  |
+| [🗣️Mentoring](#mentoring) | [🖥️Online Courses](#online-courses) | [🖋️ Projects](#projects) |
+| [🎤Talks](#talks) | [🔤 Tutorials](#tutorials) | [🎥 Webinars](#webinars) |
+|    |    |   |
+
+## Additional Resources
+<table>
+  <tr>
+    <td width="30%">
+         Join the <a href="https://github.com/natnew/Awesome-Data-Science">Artificial Intelligence First</a> newsletter today. You'll be kept informed about open source frameworks, carefully selected tutorials, and articles compiled by experts in artificial intelligence.
+    </td>
+    <td width="70%">
+        <a href="https://938318ee.sibforms.com/serve/MUIFACTF2lzbfkRcvuYSSwJYGmfxU5zC62Yw1VAs1-JNQ-SNMPVrtY4XYTRu3Spnq_U3R-WIhE9awpCr75o8vLYPRbJK7dIORn5bBUGneCdLXiS7LrB0M3xA4p7tQyhPyN05z-WoHL9efRuyqCpQWHJ2W2aX-r6LC80iBw9j6HBef0gx4lbO6hnYCbrbC2jhJaQXXaBt3yy7C9SO"><img src="media/Artificial%20Intelligence%20First%20Newsletter%20QR%20code.png"></a>
+    </td>
+  </tr>
+</table>
+
+
 ## Contents
-- [Articles](#Articles)
-- [Books](#Books)
-- [Cheat Sheets](#CheatSheets)
-- [Communities](#Communities)
-- [Datasets](#Datasets)
-- [Development Environments/Tools](#DevelopmentEnvironments/Tools)
-- [Games](#Games)
-- [Local Newspaper Archives](#LocalNewspaperArchives)
-- [Mentoring](#Mentoring)
-- [Online Courses](#OnlineCourses)
-- [Open-Source Project Contribution](#Open-SourceProjectContribution)
-- [Podcasts](#Podcasts)
-- [Projects](#Projects)
-- [Reports](#Reports)
-- [Talks](#Talks)
-- [Tutorials](#Tutorials)
-- [Videos](#Videos)
-- [Volunteering](#Volunteering)
+- [Articles](#articles)
+- [Books](#books)
+- [Cheat Sheets](#cheat-sheets)
+- [Communities](#communities)
+- [Datasets](#datasets)
+- [Development Environments Tools](#development-environments-tools)
+- [Games](#games)
+- [Local Newspaper Archives](#local-newspaper-archives)
+- [Mentoring](#mentoring)
+- [Online Courses](#online-courses)
+- [Open-Source Project Contribution](#open-source-project-contribution)
+- [Podcasts](#podcasts)
+- [Projects](#projects)
+- [Reports](#reports)
+- [Talks](#talks)
+- [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Volunteering](#volunteering)
 - [Webinars](#webinars)
+
 
 ## Articles
 - [How to create a great data science portfolio](https://www.datacamp.com/blog/how-to-build-a-great-data-science-portfolio-with-examples) - An essential guide on the hallmarks of a great data science portfolio.<br>
@@ -124,7 +153,7 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 - [Scikit-learn Data](https://scikit-learn.org/stable/datasets.html) - The sklearn. datasets package embeds some small toy datasets.<br>
 - [Stratsmodel Data](https://www.statsmodels.org/devel/datasets/index.html) - Statsmodels provides datasets (i.e. data and meta-data) for use in examples, tutorials, model testing, etc.<br>
 
-## Development Environments/Tools
+## Development Environments Tools 
 - [Visual Studio Code](https://visualstudio.microsoft.com/) - A standalone source code editor that runs on Windows, macOS, and Linux.<br>
 - [IntelliJ](https://www.jetbrains.com/idea/) - Every aspect of IntelliJ IDEA has been designed to maximise developer productivity.<br>
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Rely on it for intelligent code completion, on-the-fly error checking and quick fixes, easy project navigation, and much more.<br>
