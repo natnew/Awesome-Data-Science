@@ -162,6 +162,7 @@ The collection below is part of the Awesome Data Science GitHub Repo that contai
 - [Jupyter](https://jupyter.org/) - Free software, open standards, and web services for interactive computing across all programming languages. <br>
 - [NetBeans](https://netbeans.apache.org/) - A Development Environment, Tooling Platform and Application Framework.<br>
 - [Replit](https://replit.com/) - Build software collaboratively from anywhere in the world, on any device, without spending a second on setup.<br>
+- [MinusX](https://minusx.ai) - A FOSS AI data scientist assistant that operates your Jupyter Notebooks based on your instructions.<br>
 
 ## Games
 - [CodinGame](https://www.codingame.com/start) - The new way to improve your programming skills while having fun and getting noticed.<br>
