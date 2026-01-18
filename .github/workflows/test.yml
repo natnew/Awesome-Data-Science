@@ -1,0 +1,23 @@
+name: Sanity Tests
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+
+jobs:
+  sanity-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Verify Directory Structure
+        run: |
+          if [ ! -d "docs" ]; then
+            echo "Error: docs directory missing!"
+            exit 1
+          fi
+          if [ ! -f "_config.yml" ]; then
+            echo "Error: _config.yml missing!"
+            exit 1
+          fi
+          echo "Structure verification passed."

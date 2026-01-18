@@ -30,6 +30,11 @@ Ensure your pull request adheres to the following guidelines:
 - The pull request should have a useful title and include a link to the package and why it should be included.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
 
+### Accessibility Guidelines
+- **Images:** All images must have descriptive `alt` text.
+- **Code Blocks:** All code blocks must have language identifiers (e.g., ```python).
+- **Hyperlinks:** Use descriptive link text (avoid "click here").
+
 Thank you for your suggestion!
 
 ### Updating your PR
