@@ -1,0 +1,31 @@
+---
+layout: default
+title: Generative AI & LLMs
+nav_order: 0
+has_children: false
+---
+
+# Generative AI & Large Language Models (LLMs)
+
+A curated list of tools and frameworks for the modern AI Engineer (2024-2026).
+
+## Core Models & Platforms
+- [Hugging Face](https://huggingface.co/) - The home of open-source models (Llama 3, Mistral, Gemma).
+- [OpenAI Platform](https://platform.openai.com/) - Documentation for GPT-4o and API usage.
+- [Anthropic](https://www.anthropic.com/api) - Clause 3.5 Sonnet and Opus models.
+- [Ollama](https://ollama.com/) - Run Llama 3, Phi 3, and other models locally on your machine.
+
+## Frameworks (Orchestration & RAG)
+- [LangChain](https://www.langchain.com/) - Framework for developing applications powered by LLMs.
+- [LlamaIndex](https://www.llamaindex.ai/) - Data framework for connecting custom data sources to LLMs.
+- [Haystack](https://haystack.deepset.ai/) - End-to-end framework for building RAG pipelines.
+- [DSPy](https://dspy.ai/) - Programming—not prompting—framework for LMs.
+
+## Vector Databases
+- [Chroma](https://www.trychroma.com/) - Open-source embedding database.
+- [Pinecone](https://www.pinecone.io/) - Managed vector database for scaling AI applications.
+- [Weaviate](https://weaviate.io/) - Cloud-native vector search engine.
+
+## Tools & Utilities
+- [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
+- [Cursor](https://cursor.sh/) - The AI Code Editor built for pair-programming.

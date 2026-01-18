@@ -17,3 +17,9 @@ has_children: false
 - [Statistical thinking for data science and analytics](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic?index=product_value_experiment_a&queryID=ca783d41dba2aee0a8fa7b3491c82023&position=10) - By Columbia University - 5 Weeks - Beginner level. (EDX, 2022)<br>
 - [Introduction to natural language processing](https://www.udemy.com/course/natural-language-processing/) - By Udemy - 3 Hours - Beginner level. (Udemy, 2022)<br>
 - [Hands-on data science: build real world projects](https://www.udemy.com/course/hands-on-data-science-build-real-world-projects/) - By Udemy - 105 Hours - Beginner level. (Udemy, 2022)<br>
+
+## Generative AI Specializations (2024-2026)
+- [Generative AI Fundamentals](https://www.deeplearning.ai/courses/generative-ai-with-llms/) - By DeepLearning.AI & AWS.
+- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) - The definitive guide to Transformers and Hugging Face.
+- [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) - Short course by Android Ng & Harrison Chase.
+- [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118) - Google Cloud Skills Boost.

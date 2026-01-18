@@ -23,3 +23,9 @@ has_children: false
 - [PyDataset Data](https://libraries.io/pypi/pydataset) - Instant access to many popular datasets for Python (in data frame structure).<br>
 - [Scikit-learn Data](https://scikit-learn.org/stable/datasets.html) - The sklearn. datasets package embeds some toy datasets.<br>
 - [Stratsmodel Data](https://www.statsmodels.org/devel/datasets/index.html) - Statsmodels provides datasets (i.e. data and meta-data) for use in examples, tutorials, model testing, etc.<br>
+
+## Modern Repositories (LLM & Computer Vision)
+- [Hugging Face Datasets](https://huggingface.co/datasets) - The largest hub for NLP, Audio, and Vision datasets.
+- [Common Crawl](https://commoncrawl.org/) - Open repository of web crawl data (often used for LLM training).
+- [LAION-5B](https://laion.ai/blog/laion-5b/) - Large-scale image-text dataset.
+

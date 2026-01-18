@@ -15,3 +15,8 @@ has_children: false
 - [Jupyter](https://jupyter.org/) - Free software, open standards, and web services for interactive computing across all programming languages. <br>
 - [NetBeans](https://netbeans.apache.org/) - A Development Environment, Tooling Platform and Application Framework.<br>
 - [Replit](https://replit.com/) - Build software collaboratively from anywhere in the world, on any device, without spending a second on setup.<br>
+
+## Modern Data Stack (2024+)
+- **Data Manipulation:** [Polars](https://pola.rs/) (Blazingly fast DataFrames in Rust), [DuckDB](https://duckdb.org/) (In-process SQL OLAP database).
+- **AI Code Editors:** [Cursor](https://cursor.sh/) (The AI-first code editor), [GitHub Copilot](https://github.com/features/copilot).
+- **Experiment Tracking:** [Weights & Biases](https://wandb.ai/) (The AI developer platform), [MLflow](https://mlflow.org/).
