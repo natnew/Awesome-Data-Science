@@ -18,5 +18,5 @@ has_children: false
 
 ## Modern Data Stack (2024+)
 - **Data Manipulation:** [Polars](https://pola.rs/) (Blazingly fast DataFrames in Rust), [DuckDB](https://duckdb.org/) (In-process SQL OLAP database).
-- **AI Code Editors:** [Cursor](https://cursor.sh/) (The AI-first code editor), [GitHub Copilot](https://github.com/features/copilot).
+- **AI Code Editors:** [Cursor](https://cursor.sh/) (The AI-first code editor), [GitHub Copilot](https://github.com/features/copilot), [MinusX](https://minusx.ai) (A FOSS AI data scientist assistant that operates your Jupyter Notebooks based on your instructions).
 - **Experiment Tracking:** [Weights & Biases](https://wandb.ai/) (The AI developer platform), [MLflow](https://mlflow.org/).
