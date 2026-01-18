@@ -1,6 +1,6 @@
 title: Awesome Data Science
 description: A curated collection of valuable resources, tools, and tutorials for Data Scientists.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: https://natnew.github.io/Awesome-Data-Science
 
 aux_links:
@@ -22,6 +22,10 @@ exclude:
   - implementation_plan.md
   - evaluation_report.md
   - task.md
+  - content_audit.md
+  - walkthrough.md
+  - walkthrough_modernization.md
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
