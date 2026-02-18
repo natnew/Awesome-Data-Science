@@ -193,8 +193,8 @@ Token consumption directly drives cost and latency. Data science workflows often
 
 - **Remove redundant instructions**:
   ```
-  Verbose: "Please analyze the following data carefully and provide insights..." (10 tokens)
-  Concise: "Analyze this data:" (3 tokens)
+  Verbose: "Please analyze the following data carefully and provide insights..." (~12 tokens)
+  Concise: "Analyze this data:" (~4 tokens)
   Savings: 5-15% on instruction overhead across many requests
   ```
 
