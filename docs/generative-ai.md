@@ -12,7 +12,9 @@ A curated list of tools and frameworks for the modern AI Engineer (2024-2026).
 ## Core Models & Platforms
 - [Hugging Face](https://huggingface.co/) - The home of open-source models (Llama 3, Mistral, Gemma).
 - [OpenAI Platform](https://platform.openai.com/) - Documentation for GPT-4o and API usage.
-- [Anthropic](https://www.anthropic.com/api) - Clause 3.5 Sonnet and Opus models.
+- [Anthropic](https://www.anthropic.com/api) - Claude Sonnet 4.6 and Opus 4.6 models.
+- [Qwen](https://qwenlm.github.io/) - Qwen 2.5 series: powerful open-source models for diverse tasks.
+- [GLM](https://github.com/THUDM/GLM-4) - GLM-5: bilingual model with strong coding capabilities.
 - [Ollama](https://ollama.com/) - Run Llama 3, Phi 3, and other models locally on your machine.
 
 ## Frameworks (Orchestration & RAG)
@@ -32,3 +34,8 @@ A curated list of tools and frameworks for the modern AI Engineer (2024-2026).
 
 ## Practical Guides & Debugging
 - [WFGY ProblemMap](https://github.com/onestardao/WFGY/tree/main/ProblemMap) - Diagnosing and fixing RAG/LLM pipeline failures.
+
+## Interactive Tutorials
+- [Next-Gen Model Prompting Guide](../notebooks/03_next_gen_model_prompting.ipynb) - Effective prompting strategies for Opus 4.6, Sonnet 4.6, Qwen 2.5, and GLM-5 tailored to data science tasks.
+- [RAG Demo](../notebooks/02_rag_demo.ipynb) - Build a simple RAG pipeline from scratch.
+- [Hello Data Science](../notebooks/01_hello_data_science.ipynb) - Your first interactive data science notebook.
