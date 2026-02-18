@@ -280,7 +280,7 @@ Task: SQL Generation from Natural Language
 ├─ Alternative: GPT-3.5 Turbo
 │  ├─ Success Rate: 72%
 │  ├─ Cost per Query: $0.0003
-│  └─ Decision: Use GPT-4 (17% higher success worth 21x cost)
+│  └─ Decision: Use GPT-4 (+17 percentage points success worth 21x cost)
 └─ Optimization Applied: Schema caching (-40% tokens)
 ```
 
