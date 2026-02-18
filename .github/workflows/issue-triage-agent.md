@@ -23,7 +23,7 @@ strict: true
 timeout-minutes: 5
 tools:
   github:
-    lockdown: true
+    lockdown: false
     toolsets:
     - issues
     - labels
