@@ -29,3 +29,6 @@ A curated list of tools and frameworks for the modern AI Engineer (2024-2026).
 ## Tools & Utilities
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
 - [Cursor](https://cursor.sh/) - The AI Code Editor built for pair-programming.
+
+## Practical Guides & Debugging
+- [WFGY ProblemMap](https://github.com/onestardao/WFGY/tree/main/ProblemMap) - Diagnosing and fixing RAG/LLM pipeline failures.
