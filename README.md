@@ -17,7 +17,8 @@ Welcome to **Awesome Data Science**! This repository is a curated collection of 
 | [🖥️ Online Courses](docs/online-courses.md) | [🔓 Open Source](docs/open-source.md) | [🎙️ Podcasts](docs/podcasts.md) |
 | [🖋️ Projects](docs/projects.md) | [📊 Reports](docs/reports.md) | [🎤 Talks](docs/talks.md) |
 | [🔤 Tutorials](docs/tutorials.md) | [🎥 Videos](docs/videos.md) | [🤝 Volunteering](docs/volunteering.md) |
-| [🎥 Webinars](docs/webinars.md) | [✨ Generative AI & LLMs](docs/generative-ai.md) | [📦 Archive](docs/archive.md) |
+| [🎥 Webinars](docs/webinars.md) | [✨ Generative AI & LLMs](docs/generative-ai.md) | [📊 AI Model Monitoring](docs/predictive-monitoring.md) |
+| [📦 Archive](docs/archive.md) |   |   |
 
 ## Contributing
 We welcome contributions! Please see our [Contributing Guidelines](Contributing.md) for more details.
