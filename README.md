@@ -18,6 +18,7 @@ Welcome to **Awesome Data Science**! This repository is a curated collection of 
 | [🖋️ Projects](docs/projects.md) | [📊 Reports](docs/reports.md) | [🎤 Talks](docs/talks.md) |
 | [🔤 Tutorials](docs/tutorials.md) | [🎥 Videos](docs/videos.md) | [🤝 Volunteering](docs/volunteering.md) |
 | [🎥 Webinars](docs/webinars.md) | [✨ Generative AI & LLMs](docs/generative-ai.md) | [📦 Archive](docs/archive.md) |
+- [Level Open Financial & Trade Economy Datasets](https://levelcfo.com/benchmarks/) - Open CSV/JSON datasets for multi-industry financial benchmarks, LevelBench-100 LLM evaluations, and 9.08M US commercial properties ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks) | [TradesIndex](https://tradesindex.org)).
 
 ## Contributing
 We welcome contributions! Please see our [Contributing Guidelines](Contributing.md) for more details.
