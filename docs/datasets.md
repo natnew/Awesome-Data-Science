@@ -23,6 +23,7 @@ has_children: false
 - [PyDataset Data](https://libraries.io/pypi/pydataset) - Instant access to many popular datasets for Python (in data frame structure).<br>
 - [Scikit-learn Data](https://scikit-learn.org/stable/datasets.html) - The sklearn. datasets package embeds some toy datasets.<br>
 - [Stratsmodel Data](https://www.statsmodels.org/devel/datasets/index.html) - Statsmodels provides datasets (i.e. data and meta-data) for use in examples, tutorials, model testing, etc.<br>
+- [Datacircle](https://datacircle.dev) - Benchmarks of GTM data APIs, downloadable as CSV or JSON, with an open API at api.datacircle.dev/v1 and no key.<br>
 
 ## Modern Repositories (LLM & Computer Vision)
 - [Hugging Face Datasets](https://huggingface.co/datasets) - The largest hub for NLP, Audio, and Vision datasets.
